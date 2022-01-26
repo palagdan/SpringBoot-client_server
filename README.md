@@ -1,3 +1,3 @@
-# client-server
+# Demo client-server
 ## About
 This demo project is used for Eshop.
